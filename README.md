@@ -29,9 +29,7 @@ The BMI Calculator app allows users to quickly and easily calculate their Body M
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Anas-Altaf/BMI_calculator_flutter/assets/157444488/c750c2da-fb17-4de0-a214-3778ddce38e9)
-
-![Screenshot 2](https://github.com/Anas-Altaf/BMI_calculator_flutter/assets/157444488/349c17be-4ac0-440c-8122-4f09de3772c8)
+![Screenshot 1](https://github.com/Anas-Altaf/BMI_calculator_flutter/assets/157444488/c750c2da-fb17-4de0-a214-3778ddce38e9)![Screenshot 2](https://github.com/Anas-Altaf/BMI_calculator_flutter/assets/157444488/349c17be-4ac0-440c-8122-4f09de3772c8)
 
 ## Setup
 
